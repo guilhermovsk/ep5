@@ -10,17 +10,21 @@ body{
 
 .bbb{
     grid-area: cabe;
+    background-color: aqua;
 }
 
 .ccc{
     grid-area: prin;
+    background-color: blueviolet;
 }
 
 .ddd{
     grid-area: secu;
+    background-color: brown;
 }
 
 .eee{
     grid-area: roda;
+    background-color: black;
 }
 
