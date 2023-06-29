@@ -6,9 +6,6 @@ body{
    "prin prin brac"
    "roda roda roda";
    grid-gap: 5px;
-    grid-template-columns: 20% auto auto;
-    grid-template-rows: auto 1000px auto;
-    
 }
 
 header{ 
