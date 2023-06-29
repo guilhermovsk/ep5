@@ -2,29 +2,29 @@ body{
     display: grid;
     background-color: blue;
    grid-template-areas: 
-   "bb bb bb"
-   "cc cc dd"
-   "ee ee ee";
+   "cabe cabe cabe"
+   "prin prin brac"
+   "roda roda roda";
     
 }
 
 header{ 
-    grid-area: bb;
+    grid-area: cabe;
     background-color: rgb(255, 0, 221);
 
 }
 
 aside{
-    grid-area: cc;
+    grid-area: brac;
     background-color: rgb(0, 255, 34);
 }
 
 main{
-    grid-area: dd;
+    grid-area: prin;
     background-color: red;
 }
 
 footer{
-    grid-area: ee;
+    grid-area: roda;
     background-color: rgb(0, 0, 0);
 }
