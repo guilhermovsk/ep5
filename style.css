@@ -3,7 +3,7 @@ body{
     background-color: blue;
    grid-template-areas: 
    "cabe cabe cabe"
-   "prin prin brac"
+   "brac prin prin"
    "roda roda roda";
 }
 
