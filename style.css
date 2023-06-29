@@ -34,3 +34,40 @@ footer{
 header, aside, main, footer{
     background-color: rgb(134, 4, 4);
 }
+
+.elemento_mae{
+    background-color: aqua;
+    height: 600px;
+    display: flex; /* declarar o flexbox */
+    flex-direction: row; /* alinhamento por linha ou horizontal */
+    justify-content: space-around; /* centralizcao dos elementos */
+    align-items: baseline; /* posicionamento perpendicular */
+}
+
+.elemento_filho_1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+.elemento_filho_2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 20px;
+}
+.elemento_filho_3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
