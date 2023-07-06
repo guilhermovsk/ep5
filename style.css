@@ -109,3 +109,7 @@ input, select, textarea, button{
 fieldset{
     border: 0;
 }
+
+.abacaxi{
+    width: 100px;
+}
