@@ -10,7 +10,7 @@ body{
     grid-template-rows: auto 1000px auto;
     height: 600px;
     background-color: aquamarine;
-    display: flex;
+    
     justify-content: space-around;
     align-items: center;
 }
@@ -27,6 +27,7 @@ aside{
 }
 
 main{
+    display: flex;
     grid-area: prin;
     background-color: rgb(253, 236, 0);
 }
