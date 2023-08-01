@@ -1,6 +1,6 @@
 body{
     display: grid;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     grid-gap: 5px;
    grid-template-areas: 
    "cabe cabe cabe"
@@ -85,6 +85,8 @@ fieldset{
 }
 
 .filho{
+    border: 20px;
+    border: rgb(207, 0, 0);
     background-color: #ffffff;
     width: 400;
     box-shadow: 4px 4px 4px 4px #aaaa;
