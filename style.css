@@ -16,6 +16,7 @@ body{
 }
 
 header{ 
+    border: 200px;
     grid-area: cabe;
     background-color: rgb(255, 0, 221);
 
