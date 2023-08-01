@@ -1,5 +1,5 @@
 body{
-    display: grid;
+    display: flex;
     background-color: blue;
     grid-gap: 5px;
    grid-template-areas: 
@@ -27,7 +27,6 @@ aside{
 }
 
 main{
-    display: flex;
     grid-area: prin;
     background-color: rgb(253, 236, 0);
 }
