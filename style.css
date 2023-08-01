@@ -6,10 +6,8 @@ body{
    "cabe cabe cabe"
    "brac prin prin"
    "roda roda roda";
-   grid-template-columns: 20% auto auto;
-    grid-template-rows: auto 1000px auto;
     height: 600px;
-    background-color: aquamarine;
+    
     
     justify-content: space-around;
     align-items: center;
