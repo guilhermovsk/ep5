@@ -21,7 +21,6 @@ header{
 }
 
 aside{
-    display: flex;
     grid-area: brac;
     background-color: rgb(0, 255, 34);
 }
