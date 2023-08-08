@@ -1,5 +1,5 @@
 body{
-    display: grid;
+    display: flex;
     background-color: rgb(255, 255, 255);
     grid-gap: 5px;
    grid-template-areas: 
