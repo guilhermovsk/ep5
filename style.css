@@ -77,15 +77,16 @@ fieldset{
 .filho img{
     width: 150px;
     height: 100px;
+    border-radius: 20px;
 }
 
 .filho{
-    border: 20px;
+    border: 50px;
     border: rgb(207, 0, 0);
     background-color: #ffffff;
     width: 400;
     box-shadow: 4px 4px 4px 4px #aaaa;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .filho div{
