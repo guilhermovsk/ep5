@@ -71,7 +71,7 @@ input, select, textarea, button{
 }
 
 fieldset{
-    border: 0;
+    border: 10px;
 }
 
 .filho img{
