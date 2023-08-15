@@ -20,6 +20,10 @@ header{
 
 }
 
+.btn1{
+    background-color: cornflowerblue;
+}
+
 aside{
     display: flex;
     grid-area: brac;
