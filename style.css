@@ -96,3 +96,5 @@ fieldset{
     flex-direction: column;
     text-align: left;
 }
+
+@media screen and (max-width: 380px )
