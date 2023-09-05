@@ -89,12 +89,13 @@ fieldset{
     width: 400;
     box-shadow: 4px 4px 4px 4px #aaaa;
     border-radius: 10px;
-}
-
-.filho div{
     display: flex;
     flex-direction: column;
     text-align: left;
+}
+
+.filho div{
+    
 }
 
 @media screen and (max-width: 380px )
