@@ -89,7 +89,6 @@ fieldset{
     width: 400;
     box-shadow: 4px 4px 4px 4px #aaaa;
     border-radius: 10px;
-    display: flex;
     flex-direction: column;
     text-align: left;
 }
